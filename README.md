@@ -18,7 +18,7 @@ This is a simple project that allows you to generate random passwords with diffe
 
 ## Preview
 
-![Random Password Generator Preview](passwordGenerator.png)
+![Random Password Generator Preview](passwordGenerato.png)
 
 ## Code Explanation
 
